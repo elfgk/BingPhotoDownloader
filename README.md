@@ -1,5 +1,6 @@
 # Bing Görsel İndirme Uygulaması
 Bu proje, kullanıcıların Bing üzerinden görseller indirmesine olanak sağlayan bir Python uygulamasıdır. Gradio arayüzü sayesinde kolayca kullanılabilir.
+Kullanmak için -->  [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/elfgk/BingDownload)
 
 ### Gereksinimler
 Uygulamayı çalıştırmadan önce aşağıdaki kütüphanelerin yüklü olduğundan emin olun:
