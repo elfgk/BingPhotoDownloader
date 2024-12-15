@@ -2,14 +2,14 @@
 Bu proje, kullanıcıların Bing üzerinden görseller indirmesine olanak sağlayan bir Python uygulamasıdır. Gradio arayüzü sayesinde kolayca kullanılabilir.
 Kullanmak için -->  [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/elfgk/BingDownload)
 
-### Gereksinimler
+## Gereksinimler
 Uygulamayı çalıştırmadan önce aşağıdaki kütüphanelerin yüklü olduğundan emin olun:
 
 `gradio`
 `bing-image-downloader`
 
 
-### Nasıl Çalışır?
+## Nasıl Çalışır?
 Kullanıcı, indirmek istediği görsellerle ilgili anahtar kelimeyi girer.
 
 
@@ -22,7 +22,7 @@ Korumalı mod (yetişkin filtresi) ayarını yapar.
 Uygulama, Bing üzerinden belirtilen sayıda görseli indirir ve indirme işlemini tamamlar.
 
 
-### Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
 
 
@@ -39,7 +39,7 @@ Uygulama tarayıcınızda otomatik olarak açılacaktır. Alternatif olarak, ter
 `**Arama Anahtarı**`: Aramak istediğiniz kelimeyi yazabilirsiniz (örneğin, "cat", "dog").
 
 
-**Görsel Sayısı**: İndirilecek görsel sayısını 1 ile 100 arasında ayarlayabilirsiniz.
+`**Görsel Sayısı**`: İndirilecek görsel sayısını 1 ile 100 arasında ayarlayabilirsiniz.
 
 
 `**Korumalı Mod**`: Yetişkin içerik filtresi için "True" (açık) veya "False" (kapalı) seçeneğini kullanabilirsiniz.
