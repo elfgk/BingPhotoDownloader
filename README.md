@@ -5,8 +5,8 @@ Kullanmak için -->  [![Hugging Face](https://img.shields.io/badge/HuggingFace-9
 ### Gereksinimler
 Uygulamayı çalıştırmadan önce aşağıdaki kütüphanelerin yüklü olduğundan emin olun:
 
-gradio
-bing-image-downloader
+`gradio`
+`bing-image-downloader`
 
 
 ### Nasıl Çalışır?
@@ -28,23 +28,24 @@ Proje dosyalarını bilgisayarınıza indirin veya klonlayın.
 
 Terminal veya komut satırında aşağıdaki komutla uygulamayı başlatın:
 
-
+```bash
 python app.py
+```
 
 
 Uygulama tarayıcınızda otomatik olarak açılacaktır. Alternatif olarak, terminalde paylaşılan bağlantıyı kullanabilirsiniz.
 
 ### Özellikler
-**Arama Anahtarı**: Aramak istediğiniz kelimeyi yazabilirsiniz (örneğin, "cat", "dog").
+`**Arama Anahtarı**`: Aramak istediğiniz kelimeyi yazabilirsiniz (örneğin, "cat", "dog").
 
 
 **Görsel Sayısı**: İndirilecek görsel sayısını 1 ile 100 arasında ayarlayabilirsiniz.
 
 
-**Korumalı Mod**: Yetişkin içerik filtresi için "True" (açık) veya "False" (kapalı) seçeneğini kullanabilirsiniz.
+`**Korumalı Mod**`: Yetişkin içerik filtresi için "True" (açık) veya "False" (kapalı) seçeneğini kullanabilirsiniz.
 
 
-**Gradio Arayüzü**: Kullanıcı dostu  bir arayüz.
+`**Gradio Arayüzü**`: Kullanıcı dostu  bir arayüz.
 
 
 ### Kullanım
