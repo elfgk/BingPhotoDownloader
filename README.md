@@ -36,16 +36,16 @@ python app.py
 Uygulama tarayıcınızda otomatik olarak açılacaktır. Alternatif olarak, terminalde paylaşılan bağlantıyı kullanabilirsiniz.
 
 ### Özellikler
-`**Arama Anahtarı**`: Aramak istediğiniz kelimeyi yazabilirsiniz (örneğin, "cat", "dog").
+`*Arama Anahtarı*`: Aramak istediğiniz kelimeyi yazabilirsiniz (örneğin, "cat", "dog").
 
 
-`**Görsel Sayısı**`: İndirilecek görsel sayısını 1 ile 100 arasında ayarlayabilirsiniz.
+`*Görsel Sayısı*`: İndirilecek görsel sayısını 1 ile 100 arasında ayarlayabilirsiniz.
 
 
-`**Korumalı Mod**`: Yetişkin içerik filtresi için "True" (açık) veya "False" (kapalı) seçeneğini kullanabilirsiniz.
+`*Korumalı Mod*`: Yetişkin içerik filtresi için "True" (açık) veya "False" (kapalı) seçeneğini kullanabilirsiniz.
 
 
-`**Gradio Arayüzü**`: Kullanıcı dostu  bir arayüz.
+`*Gradio Arayüzü*`: Kullanıcı dostu  bir arayüz.
 
 
 ### Kullanım
