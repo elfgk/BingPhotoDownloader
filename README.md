@@ -10,16 +10,16 @@ Uygulamayı çalıştırmadan önce aşağıdaki kütüphanelerin yüklü olduğ
 
 
 ## Nasıl Çalışır?
-Kullanıcı, indirmek istediği görsellerle ilgili anahtar kelimeyi girer.
+ *Kullanıcı, indirmek istediği görsellerle ilgili anahtar kelimeyi girer.
 
 
-İndirilmesini istediği görsel sayısını belirler.
+ *İndirilmesini istediği görsel sayısını belirler.
 
 
-Korumalı mod (yetişkin filtresi) ayarını yapar.
+ *Korumalı mod (yetişkin filtresi) ayarını yapar.
 
 
-Uygulama, Bing üzerinden belirtilen sayıda görseli indirir ve indirme işlemini tamamlar.
+ *Uygulama, Bing üzerinden belirtilen sayıda görseli indirir ve indirme işlemini tamamlar.
 
 
 ## Kurulum ve Çalıştırma
